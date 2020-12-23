@@ -1,0 +1,27 @@
+{
+  "name": "whatsapp-backend",
+  "version": "1.0.0",
+  "description": "This is a chat-app like whatsapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "keywords": [
+    "Whatsapp-clone",
+    "reactjs",
+    "nodejs",
+    "Alpbay",
+    "Tomisin",
+    "Chat-app"
+  ],
+  "author": "Oluwatomisin Adeyinka Tomori",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.5"
+  }
+}

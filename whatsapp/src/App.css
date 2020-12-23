@@ -1,0 +1,12 @@
+.App {
+    display: grid;
+    height: 100vh;
+    background-color: #dadbd3;
+}
+
+.app_body {
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: #ededed;
+}
